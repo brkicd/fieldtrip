@@ -29,6 +29,8 @@ function [stat, cfg] = ft_statistics_stats(cfg, dat, design)
 %                   'kruskalwallis'
 %                   'signtest'
 %                   'signrank'
+%                   'pearson'
+%                   'spearman'
 %
 % See also TTEST, TTEST2, KRUSKALWALLIS, SIGNTEST, SIGNRANK
 
